@@ -1,2 +1,2 @@
 # kalkuladora
-Calculadora que realiza as operações matemáticas básicas desenvolvida em Kotlin
+Projeto desenvolvido usando Kotlin de uma calculadora que realiza as operações matemáticas básicas como somar, subtrair, multiplicar e dividir
